@@ -1,0 +1,6 @@
+login
+admin
+changeplan
+99999
+Nobody
+logout

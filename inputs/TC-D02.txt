@@ -1,0 +1,7 @@
+login
+standard
+Omer Minhaj
+deposit
+00001
+-50
+logout

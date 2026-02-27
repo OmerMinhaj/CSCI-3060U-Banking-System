@@ -1,0 +1,7 @@
+login
+admin
+create
+00004
+NameIsWayTooLongForThisSystemToHandle
+100000
+logout

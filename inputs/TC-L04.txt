@@ -1,0 +1,6 @@
+login
+standard
+Omer Minhaj
+login
+admin
+logout

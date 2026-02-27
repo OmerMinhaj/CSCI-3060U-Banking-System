@@ -1,0 +1,7 @@
+login
+standard
+Omer Minhaj
+withdraw
+00001
+200
+logout

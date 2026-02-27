@@ -1,0 +1,8 @@
+login
+standard
+Omer Minhaj
+transfer
+00001
+99999
+50
+logout

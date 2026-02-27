@@ -1,0 +1,8 @@
+login
+standard
+Omer Minhaj
+paybill
+00001
+EC
+50
+logout

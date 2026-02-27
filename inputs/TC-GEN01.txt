@@ -1,0 +1,13 @@
+login
+admin
+disable
+00002
+John Doe
+logout
+login
+standard
+John Doe
+withdraw
+00002
+50
+logout

@@ -1,0 +1,7 @@
+login
+admin
+create
+00001
+Omer Minhaj
+500
+logout

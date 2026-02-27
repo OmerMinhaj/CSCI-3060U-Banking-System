@@ -1,0 +1,8 @@
+login
+standard
+Omer Minhaj
+paybill
+00001
+XX
+50
+logout

@@ -1,0 +1,9 @@
+Banking System Front End Loaded.
+Enter transaction: Session type (standard/admin): Logged in successfully as admin.
+Enter transaction: Account number to disable: Account name: Disable logged successfully.
+Enter transaction: Session terminated.
+Enter transaction: Session type (standard/admin): Account holder name: Logged in successfully as standard.
+Enter transaction: Account number: Error: Account is disabled.
+Enter transaction: Error: Transaction not recognized.
+Enter transaction: Session terminated.
+Enter transaction: 

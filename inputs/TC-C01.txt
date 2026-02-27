@@ -1,0 +1,7 @@
+login
+admin
+create
+00003
+Alice Smith
+500
+logout
